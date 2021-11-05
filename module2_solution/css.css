@@ -247,8 +247,9 @@ p{
         width: 100%;
     }  
     h2{
+        font-size:37px;
         position: relative;
-        left:110px;
+        left:130px;
         top:120px;
     }
     
